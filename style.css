@@ -40,3 +40,11 @@ h1 span{color:var(--red)}
   height: 100%;
   object-fit: contain;
 }
+.character-image {
+    display: block;
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    margin: 0 auto;
+    object-fit: contain;
+}
